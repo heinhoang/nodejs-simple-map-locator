@@ -1,5 +1,5 @@
 {
-  "name": "maps-api",
+  "name": "nodejs-simple-map-locator",
   "version": "0.0.1",
   "private": true,
   "scripts": {

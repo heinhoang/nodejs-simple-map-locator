@@ -6,3 +6,9 @@ a store locator application and a simple add store interface
 - MongoDB: for databse
 - Swig: for the template engine
 - Gulp: for LiveReload and other stuff
+
+## Usage ##
+```
+$ npm install
+$ npm start
+```
